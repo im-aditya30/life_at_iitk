@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>101368378371-d9i0me95a8uucr0otg226800b1i9hqeg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.101368378371-d9i0me95a8uucr0otg226800b1i9hqeg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>101368378371-nr8gingbjqb8hdqjmkoh673sr7fo57su.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMp5ooWIt66mUExEQTQdg6ZlQ3v_3M460</string>
+	<key>GCM_SENDER_ID</key>
+	<string>101368378371</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.sntiitk.life</string>
+	<key>PROJECT_ID</key>
+	<string>notifier-phase-2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notifier-phase-2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:101368378371:ios:24802c2ca2aa0152da4a36</string>
+	<key>DATABASE_URL</key>
+	<string>https://notifier-phase-2.firebaseio.com</string>
+</dict>
+</plist>
